@@ -1,0 +1,61 @@
+*{
+    padding:0;
+margin:0;	
+}
+
+
+body{
+	text-align:center;
+}
+
+
+
+
+
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	
+}
+.HOME{
+	
+
+}
+.ABOUT ME{
+	text-color:red;
+}
+.email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+
+.CONTACT{
+	margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	
+	color: #ffffff;
+	
+	
+}
+
+.CHAT{
+	color:red;
+	
+	{
+
+}
+	
+	
+		
+
+li{
+	float:left;
+}
